@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Slab&display=swap);
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/buttons.css");
+
+@import url("components/banner.css");
+
+@import url("components/about-me.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+
+h1, h2, h3 {
+	font-family: 'Roboto Slab', serif;
+	font-weight: bold;
+	
+}
+
+a{
+	text-decoration: none;
+}
+
+#music {
+	background-color: #fbc8d1a3;
+	height: 200px;
+	width: 100px,
+} 
+
+#music img {
+	height: 200px;
+	width: 200px;
+	margin-top: 20px: 
+	margin: 0px;
+}
+
+.logo {
+	width: 500px;
+	height: 400px;
+}
+
+#title1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+#eng {
+	font-size: 5px;
+}
+
+#logo1 {
+	margin-left: 450px;
+	margin-top: 50px;
+}

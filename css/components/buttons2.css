@@ -1,0 +1,40 @@
+
+.buttons2:hover {
+	background-color: #fbc8d1a3;
+	color: white;
+}
+.buttons2{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #fbc8d1a3;
+	color: #00daff;
+	padding: 10px 15px;
+	border-radius: 4px;
+	font-family: 'Roboto Slab', serif;
+	box-shadow: 0px 4px 3px;
+	align-content:center;
+}
+
+.buttons2{
+	list-style:none;
+	padding-left: 0px;
+}
+
+.buttons li {
+	display: inline;
+	padding: 10px;
+}
+
+.buttons i {
+	font-size: 50px;
+	color: rgb(139 28 94);
+}
+
+.buttons i:hover {
+	color:black;
+}
+
+.buttons ul {
+	margin-right: 24px;
+}
+

@@ -1,0 +1,14 @@
+.about-me {
+	width: 800px;
+	text-align: center;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.about-me img {
+	margin: 20px;
+}
+
+.about-me ul {
+	text-align: center;
+}
